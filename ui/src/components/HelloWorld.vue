@@ -42,7 +42,7 @@
 				authStatus: "NA",
 				visitorStatus: "NA",
 				adminStatus: "NA",
-				disabled: true
+				disabled: false
 			}
 		},
 		methods: {
